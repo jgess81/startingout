@@ -1,6 +1,3 @@
 # startingout
-# startingout
-# startingout
-# startingout
-# startingout
-# startingout
+Hello world!
+	This is my first time posting to Github so please be gentle, yet constructive. Any and all help is appreciated! I am getting back into coding after some time not concentrating on it as it seemed like a daunting task at the time. The 3 languages that I have had dealings with are; C++ (from the late 90's), VBS, and Microsoft SQL from college. Learning these seemed almost impossible as I was having a difficult time understanding them. Since then I have been using Linux full-timeand learned about Python and it has renewed my interest in programming as I would like to learn to write my own security programs.
